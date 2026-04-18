@@ -1,0 +1,4 @@
+# Ignore FreeCAD lock and backup files
+*.lck
+*.FCBak
+*.FCStd#
